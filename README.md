@@ -21,75 +21,21 @@ Sc-Roll is an automated Student Attendance Management System developed for the U
 - **Seamless Integration:** Integrates smoothly with existing IT infrastructure at the University of Southern Mississippi.
 - **Scalability & Security:** Built to scale and ensure data security as user numbers grow.
 
-## Installation
+## Installation (Concept)
 
-Since Sc-Roll is a concept application, there is no actual codebase to run. However, you can review the project concept by following these steps:
-
-1. **Download the PDF:**
-   - [Download the project plan PDF here](https://github.com/PurplePoet25/Sc-Roll-Concept-Project/blob/main/DELIVERABLE3-FINALDOC.pdf)
-
-2. **Review the Project Concept:**
-   - The Sc-Roll concept includes a detailed project plan, objectives, and technical details about the Student Attendance Management System. You can explore the PDF to understand the scope, goals, and deliverables of the project.
-
-3. **No Dependencies:**
-   - As this is a concept, there are no dependencies to install or run.
+Since this is not a fully developed system yet, installation steps are not applicable. However, once development is initiated, the following steps will be considered for deployment:
+1. **System Setup:** [Details on system installation will be provided here]
+2. **User Access:** Faculty and administrative staff will be granted access based on permissions.
+3. **Training:** A training module will be provided to faculty for smooth system adoption.
 
 ## Contributing
 
-Contributions are welcome! If you would like to contribute to Sc-Roll, please fork this repository, make your changes, and submit a pull request with a clear description of your changes.
+Contributions to this conceptual project are welcome, particularly in:
+- Ideas for improving the proposed system functionality.
+- Suggestions on how to overcome the anticipated risks and challenges.
+- Helping to transition from concept to reality in future development phases.
 
-## Team Members
-
-- **Gerald Monroe** – Project Manager
-- **Hasan Bukhari** – Assistant Project Manager
-- **Garreth McDaneil** – Developer
-- **Ben (Amber) McDowell** – Developer
-- **Saoban Reza** – Developer
-- **Billy Hubbard** – Developer
-- **Bhargav Chautat** – Developer
-- **Kam Okpala** – Developer
-
-## Project Timeline
-
-- **Start Date:** 01/09/2024
-- **End Date:** 24/11/2024
-
-## License
-
-This project is not licensed. All rights reserved. Please do not use, modify, or distribute this project without prior permission.
-
-## Acknowledgements
-
-- **Professor Ujunwa Madububambachu** for project guidance and support.
-- **The ITC 371 Team** for their dedication and hard work on this project.
-
-
-
-
-
-
-
-You said:
-no so its actually a pdf...and its a concept application...tailor evrything to this 
-ChatGPT said:
-Got it! Here's a revised version of the README tailored for your concept application of the Sc-Roll: Student Attendance Management system, now formatted for a PDF context:
-
-markdown
-Copy
-Edit
-# Sc-Roll: Concept Student Attendance Management System
-
-**Project Name:** Sc-Roll: Student Attendance Management  
-**Project Manager:** Gerald Monroe  
-**Assistant Project Manager:** Hasan Bukhari  
-**Client:** Professor Ujunwa Madububambachu, School of Computing, University of Southern Mississippi  
-**Version:** 1.1  
-**Issue Date:** 24/11/2024  
-**Course:** ITC 371 - Information Technology Project Management
-
-## Overview
-
-Sc-Roll is a **conceptualized** Student Attendance Management System designed for the University of Southern Mississippi. The objective of this project is to create a system that automates the process of tracking student attendance, which will help professors at USM save time, reduce administrative overhead, and improve the accuracy of attendance records. While the application is conceptual, it highlights the potential benefits for professors and students alike in terms of time efficiency, data accuracy, and overall academic improvement.
+If you'd like to contribute to this concept project, please open an issue or submit a pull request.
 
 ### Key Benefits:
 - **Time Efficiency:** Saves professors valuable time by automating attendance tracking.
@@ -118,8 +64,8 @@ The Sc-Roll project aims to:
 This is a concept application, meaning that:
 - **No actual application** has been built yet, but this document outlines the proposed functionality, benefits, and goals.
 - A **prototype** or working version is a future step once funding and approval are secured.
-  
-## Project Team
+
+## Team Members
 
 - **Gerald Monroe** – Project Manager
 - **Hasan Bukhari** – Assistant Project Manager
@@ -130,7 +76,7 @@ This is a concept application, meaning that:
 - **Bhargav Chautat** – Developer
 - **Kam Okpala** – Developer
 
-## Timeline (Concept)
+## Project Timeline
 
 Since this is a conceptualized project, the timeline consists of planning and design stages only:
 - **Project Planning:** Completed on 24/11/2024.
@@ -144,27 +90,11 @@ As this is a conceptualized project, the following risks are anticipated:
 - **System Integration:** Conceptual integration with the university’s existing IT systems may present challenges during full-scale implementation.
 - **Data Accuracy:** Ensuring high levels of attendance tracking accuracy during the initial rollout.
 
-## Installation (Concept)
-
-Since this is not a fully developed system yet, installation steps are not applicable. However, once development is initiated, the following steps will be considered for deployment:
-1. **System Setup:** [Details on system installation will be provided here]
-2. **User Access:** Faculty and administrative staff will be granted access based on permissions.
-3. **Training:** A training module will be provided to faculty for smooth system adoption.
-
-## Contributing
-
-Contributions to this conceptual project are welcome, particularly in:
-- Ideas for improving the proposed system functionality.
-- Suggestions on how to overcome the anticipated risks and challenges.
-- Helping to transition from concept to reality in future development phases.
-
-If you'd like to contribute to this concept project, please open an issue or submit a pull request.
-
-## Acknowledgements
-
-- **Professor Ujunwa Madububambachu** for providing guidance on the project.
-- **The ITC 371 Group 4** for their efforts in outlining this concept application.
-
 ## License
 
 This project is not licensed. All rights reserved. Please do not use, modify, or distribute this project without prior permission.
+
+## Acknowledgements
+
+- **Professor Ujunwa Madububambachu** for project guidance and support.
+- **The ITC 371 Team** for their dedication and hard work on this project.
