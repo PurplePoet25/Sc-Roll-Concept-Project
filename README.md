@@ -26,7 +26,7 @@ Sc-Roll is an automated Student Attendance Management System developed for the U
 Since Sc-Roll is a concept application, there is no actual codebase to run. However, you can review the project concept by following these steps:
 
 1. **Download the PDF:**
-   - [Download the project plan PDF here](https://github.com/PurplePoet25/Sc-Roll-Concept-Project)
+   - [Download the project plan PDF here](https://github.com/PurplePoet25/Sc-Roll-Concept-Project/blob/main/DELIVERABLE3-FINALDOC.pdf)
 
 2. **Review the Project Concept:**
    - The Sc-Roll concept includes a detailed project plan, objectives, and technical details about the Student Attendance Management System. You can explore the PDF to understand the scope, goals, and deliverables of the project.
@@ -56,13 +56,12 @@ Contributions are welcome! If you would like to contribute to Sc-Roll, please fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is not licensed. All rights reserved. Please do not use, modify, or distribute this project without prior permission.
 
 ## Acknowledgements
 
 - **Professor Ujunwa Madububambachu** for project guidance and support.
 - **The ITC 371 Team** for their dedication and hard work on this project.
-This markdown formatting will display properly on GitHub. Just paste it into your README.md file, and it will look great on the repository page!
 
 
 
