@@ -23,19 +23,16 @@ Sc-Roll is an automated Student Attendance Management System developed for the U
 
 ## Installation
 
-To install and set up Sc-Roll, follow these steps:
+Since Sc-Roll is a concept application, there is no actual codebase to run. However, you can review the project concept by following these steps:
 
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-username/Sc-Roll.git
-    ```
+1. **Download the PDF:**
+   - [Download the project plan PDF here](https://github.com/PurplePoet25/Sc-Roll-Concept-Project)
 
-2. **Dependencies:**
-   Make sure you have the following dependencies installed:
-   - [List any dependencies, such as specific libraries or frameworks]
+2. **Review the Project Concept:**
+   - The Sc-Roll concept includes a detailed project plan, objectives, and technical details about the Student Attendance Management System. You can explore the PDF to understand the scope, goals, and deliverables of the project.
 
-3. **Run the Application:**
-   Follow the setup instructions in the `INSTALL.md` file for detailed setup.
+3. **No Dependencies:**
+   - As this is a concept, there are no dependencies to install or run.
 
 ## Contributing
 
